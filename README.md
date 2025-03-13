@@ -2,12 +2,7 @@
 
 🎓 **Computer Engineering Student** at *Universidad de los Andes*  <br/>
 💻 **Software Developer & Researcher**  <br/>
-🔬 **Exploring ML applications in biomedical fields**, focusing on **ECG categorization**  
-
-## 🚀 Tech Stack  
-- **Languages:** Python, JavaScript, C, C++, ASM, VBA, SQL
-- **Frameworks & Tools:** React, Django, Google Apps Script, Pytorch
-- **Interests:** Machine Learning, Embedded Systems, Backend Development, Scientific Computing  
+🔬 **Exploring ML applications in biomedical fields**, focusing on **ECG categorization**   
 
 ## 🛠️ Projects & Research  
 - 🏥 **ML for Biomedical Signals:** Researching ML implementations for ECG signal categorization.  

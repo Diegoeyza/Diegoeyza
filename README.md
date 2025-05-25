@@ -2,10 +2,10 @@
 
 🎓 **Computer Engineering Student** at *Universidad de los Andes*  <br/>
 💻 **Software Developer & Researcher**  <br/>
-🔬 **Exploring ML applications in biomedical fields**, focusing on **ECG categorization**   
+🔬 **Exploring ML applications in biomedical fields**, focusing on **ECG and EEG categorization**   
 
 ## 🛠️ Projects & Research  
-- 🏥 **ML for Biomedical Signals:** Researching ML implementations for ECG signal categorization.  
+- 🏥 **ML for Biomedical Signals:** Researching ML implementations for ECG signal categorization using multiple signals like EEG, oxygen saturation and pressure sensors.  
 - ⚡ **Optimized Systems:** Passionate about writing efficient and memory-safe code.  
 - 📊 **Data & Automation:** Experience with Google Apps Script and VBA for automation and data processing.
   
@@ -19,4 +19,4 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Diegoeyza&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Diegoeyza&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+

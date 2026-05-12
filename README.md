@@ -1,22 +1,80 @@
-# 👋 Hey there, I'm Diego!
+<div align="center">
 
-🎓 **Computer Engineering Student** at *Universidad de los Andes*  <br/>
-💻 **Software Developer & Researcher**  <br/>
-🔬 **Exploring ML applications in biomedical fields**, focusing on **ECG and EEG categorization**   
+# Diego Eyzaguirre
+**Computer Engineering Student | AI Researcher | Assistant Coordinator**
 
-## 🛠️ Projects & Research  
-- 🏥 **ML for Biomedical Signals:** Researching ML implementations for ECG signal categorization using multiple signals like EEG, oxygen saturation and pressure sensors.  
-- ⚡ **Optimized Systems:** Passionate about writing efficient and memory-safe code.  
-- 📊 **Data & Automation:** Experience with Google Apps Script and VBA for automation and data processing.
-  
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deyzaguirre1@miuandes.cl) 
+---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Diegoeyza&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Diegoeyza&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Diegoeyza&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Specializing in **Agentic AI** on low-cost edge models and **TinyML** implementation.  
+Bridging the gap between high-level RAG architectures and resource-constrained hardware.
 
+[Email](mailto:deyzaguirre1@miuandes.cl) • [LinkedIn](https://linkedin.com/in/diegoeyza) • [GitHub](https://github.com/diegoeyza)
 
+---
+
+</div>
+
+### Professional Profile
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Research & Leadership</h4>
+      <ul>
+        <li><b>Assistant Coordinator | UANDES</b><br>Managing course logistics and leading review teams for Engineering and Mathematics.</li>
+        <li><b>Research Fellow | Northeastern University</b><br>Boston residency focused on CPR quality analysis using fNIRS and AI.</li>
+        <li><b>Edge Intelligence</b><br>Exploring Agentic AI workflows optimized for low-cost, decentralized hardware.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>Technical Focus</h4>
+      <ul>
+        <li><b>TinyML & Quantization</b><br>Deploying quantized models on ESP32 for real-time inference and pattern recognition.</li>
+        <li><b>RA Analyzer (RAG)</b><br>Architecting a system for automated academic curriculum graph extraction and LLM benchmarking.</li>
+        <li><b>Biomedical AI</b><br>Developing ML implementations for ECG/EEG signal categorization.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### Technical Ecosystem
+
+**AI & Machine Learning**
+<p align="left">
+  <img src="https://img.shields.io/badge/Agentic_AI-0055FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG_Systems-FF6600?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+</p>
+
+**Edge & Embedded Systems**
+<p align="left">
+  <img src="https://img.shields.io/badge/ESP32_TinyML-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/Model_Quantization-8833FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Fedora_Linux-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+</p>
+
+**Web & Infrastructure**
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
+
+---
+
+### Development Metrics
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diegoeyza&theme=transparent&hide_border=true" width="97%" />
+</p>
+
+<div align="center">
+  <sub><b>Environment:</b> Fedora 43 | <b>IDE:</b> VS Code & Antigravity | <b>Hardware:</b> ESP32 Family Devices & Micro-controllers</sub>
+</div>

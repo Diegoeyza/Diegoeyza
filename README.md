@@ -8,7 +8,7 @@
 Specializing in **Agentic AI** for low-cost edge models and **TinyML** implementation.  
 Bridging the gap between robust **Full-Stack** architectures and resource-constrained hardware.
 
-[Email](mailto:deyzaguirre1@miuandes.cl) • [LinkedIn](https://www.linkedin.com/in/diego-eyzaguirre-bas-302439338?utm_source=share_via&utm_content=profile) • [GitHub](https://github.com/diegoeyza)
+[Email](mailto:deyzaguirre1@miuandes.cl) • [LinkedIn](https://www.linkedin.com/in/diego-eyzaguirre-bas-302439338?utm_source=share_via&utm_content=profile) • [Portfolio](https://diegoeyza.github.io)
 
 ---
 

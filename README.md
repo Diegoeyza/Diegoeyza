@@ -1,14 +1,12 @@
 <div align="center">
 
-# Diego Eyzaguirre
+# Diegoeyza
 **Computer Engineering Student | AI Researcher | Assistant Coordinator**
 
 ---
 
 Specializing in **Agentic AI** for low-cost edge models and **TinyML** implementation.  
 Bridging the gap between robust **Full-Stack** architectures and resource-constrained hardware.
-
-[Email](mailto:deyzaguirre1@miuandes.cl) • [LinkedIn](https://www.linkedin.com/in/diego-eyzaguirre-bas-302439338?utm_source=share_via&utm_content=profile) • [Portfolio](https://diegoeyza.github.io)
 
 ---
 
@@ -21,7 +19,7 @@ Bridging the gap between robust **Full-Stack** architectures and resource-constr
     <td width="50%" valign="top">
       <h4>Research & Leadership</h4>
       <ul>
-        <li><b>Assistant Coordinator | UANDES</b><br>Managing course logistics and leading review teams for Engineering and Mathematics.</li>
+        <li><b>Assistant Coordinator </b><br>Managing course logistics and leading review teams for Engineering and Mathematics.</li>
         <li><b>Research Fellow | Northeastern University</b><br>Boston residency focused on CPR quality analysis using fNIRS and AI.</li>
         <li><b>Edge Intelligence</b><br>Exploring Agentic AI workflows optimized for low-cost, decentralized hardware.</li>
       </ul>
